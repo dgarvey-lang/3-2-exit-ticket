@@ -5,8 +5,11 @@
 1. Both equations in slope-intercept form.
 2. One equation in slope-intercept form, one in standard form.
 
-Students type their name, pick the version number their teacher gives them, enter their x and y values, and show work on a finger-drawing scratch pad on the right (graph paper, three pen colors, eraser, undo, clear). On phones, a "Scratch pad" button opens it full screen.
+- Students type their name and are given a version automatically (1, 2, 3 … 15, then it repeats).
+- They show work on a finger-drawing scratch pad on the right (graph paper, three pen colors, eraser, undo, clear). On phones, a "Scratch pad" button opens it full screen.
+- When they turn it in, it is scored out of 4 (1 point each for x and y), answers lock, and they see their score.
+- **Save picture** makes an image with their name, score, answers and scratch work to upload to Google Classroom.
 
-**Teacher view:** on the claude.ai copy of this ticket, the teacher sees a live list of every student's answers, auto-checked against the key, plus each student's scratch work, and an answer key for all 15 versions.
+**Teacher view (claude.ai copy only):** each student's name, version, score, results for both questions, and scratch work, updating live; an answer key for all 15 versions; and a reset button per student.
 
-**GitHub Pages copy:** the ticket works the same for students, but answers save only on the student's own device, so the teacher view can't collect work here.
+**GitHub Pages copy:** students can still take the ticket, see their score and save the picture, but versions are random (two students may get the same one) and there is no teacher view.
